@@ -1,0 +1,7 @@
+cython
+ctransformers
+langchain
+langchain-community
+langchain-core
+torch
+transformers
